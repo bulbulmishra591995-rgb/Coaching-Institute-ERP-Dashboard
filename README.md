@@ -1,4 +1,4 @@
-![Coaching Institute ERP Dashboard](Coaching Institute ERP Dashboard.png)
+![Coaching](Coaching Dashboard.png)
 
 # Coaching Institute ERP Dashboard
 
