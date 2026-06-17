@@ -5,7 +5,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Images/Coaching_Institute_ERP_Dashboard.png" alt="Coaching Institute ERP Dashboard" width="1000">
+  <img src="Images/Coaching Dashboard.png" alt="Coaching Institute ERP Dashboard" width="1000">
 </p>
 
 ## Project Overview
