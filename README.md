@@ -1,7 +1,11 @@
 # Coaching Institute ERP Dashboard
 
 ## Dashboard Preview
-![Coaching Dashboard](Coaching Dashboard.png)
+
+
+<p align="center">
+  <img src="Coaching%20Institute%20ERP%20Dashboard.png" alt="Coaching Institute ERP Dashboard" width="1000">
+</p>
 
 
 
